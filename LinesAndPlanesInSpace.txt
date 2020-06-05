@@ -1,0 +1,2 @@
+Riproduce this image with a Matlab script:
+https://elearning.unica.it/pluginfile.php/107940/mod_assign/intro/rette_e_piani_nello_spazio_es.png
