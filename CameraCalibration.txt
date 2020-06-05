@@ -1,0 +1,1 @@
+Calibrate a camera using the Camera Calibrator app provided by Matlab. Use the intrinsic and extrinsic parameters obtained to superimpose a cube on the calibration pattern.
